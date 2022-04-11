@@ -5,6 +5,14 @@ Object Oriented Programming in Java
 
 Because with the procedural, if the program is getting bigger and more complex it will be difficult to maintain.
 
+- Organized syntax
+- Effective and efficient
+- Saving time
+- Easy to develop
+- Quickly detect and fix bugs
+- Avoid conflicts in naming variables and functions
+
+
 ![alt text](./images/procedural.png "Procedural")
 
 ![alt text](./images/oop.png "OOP")
